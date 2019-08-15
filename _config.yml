@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "The Commish"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : 'Everything you need to go from a commissioner to "Commish"'
   location         : "Somewhere"
   email            :
   links:
@@ -121,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/commishcentral"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/commishcentral"
 
 # Site Footer
 footer:
