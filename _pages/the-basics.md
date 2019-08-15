@@ -1,7 +1,7 @@
 ---
 title: "The Basics"
 permalink: /basics/
-toc: true
+toc: false
 ---
 
 These are the basics to getting started building a fantasy football league.
